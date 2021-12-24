@@ -9,4 +9,5 @@ alias sl='ls'
 alias add_domain='sudo nano /etc/hosts'
 alias restart_shell='exec $SHELL'
 alias clip='xclip -sel clip'
+alias clipf='xclip -sel clip <'
 ```
